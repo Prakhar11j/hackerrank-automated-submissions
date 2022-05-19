@@ -1,1 +1,1 @@
-# hackerrank-automated-submissions
+# Hackerrank-automation
